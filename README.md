@@ -5,7 +5,9 @@
 
 核心功能如下：
 
->> UI，LUA资源自动打包，下载
->> HotFix
->> Lua bytecode
+* UI，LUA资源自动打包，下载
+
+* HotFix
+
+* Lua bytecode
 
