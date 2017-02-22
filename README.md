@@ -11,5 +11,7 @@
 
 * Lua bytecode
 
+* 集成常用第三方库：protobuf,bjson等
+
 * 交流QQ群：346340389
 
